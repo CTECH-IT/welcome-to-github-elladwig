@@ -2,7 +2,7 @@
 # Welcome-to-GitHub
 First repository for new users
 
-Please enter your name:Elizabeth Ladwig 
+Please enter your name:Elizabeth Ladwig  is awesome
 
 Please enter your favorite color:Green
 
